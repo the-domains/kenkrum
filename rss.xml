@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kenkrum]]></title>
         <description><![CDATA[kenkrum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kenkrum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 14:36:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 14:44:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kenkrum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The World Is Your Oyster]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97cf60f7-7e9a-433d-a915-b18a568f4636.jpg" alt="" title="">]]></description>
-            <link>undefinedthe-world-is-your-oyster/index.html</link>
+            <link>https://thegrid.ai/kenkrum/the-world-is-your-oyster/index.html</link>
             <guid isPermaLink="false">58575ded-eacb-43b8-bb8a-4b75e58c71c3</guid>
-            <pubDate>Wed, 27 Jul 2016 14:36:35 GMT</pubDate>
+            <pubDate>Wed, 27 Jul 2016 14:43:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
