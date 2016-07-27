@@ -5,19 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-27T14:36:35.916Z'
-dateModified: '2016-07-27T14:34:10.176Z'
+datePublished: '2016-07-27T14:43:24.225Z'
+dateModified: '2016-07-27T14:42:51.868Z'
 title: ''
 author:
   - name: ''
     url: ''
 via: {}
-authors: []
-publisher:
-  name: ''
-  url: ''
-starred: false
 sourcePath: _posts/2016-07-27-the-world-is-your-oyster.md
+authors: []
+publisher: {}
+starred: false
 url: the-world-is-your-oyster/index.html
 _type: Article
 
